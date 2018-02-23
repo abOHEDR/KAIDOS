@@ -1,20 +1,20 @@
-☑️┇TshAkE Source 
+☑️┇KAIDO Source 
 
 1️⃣┇BEST SOURCE ON TELEGRAM
 
  ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
  
-🔽┇لتنصيب سورس تشاكي ع التوكن 
+🔽┇لتنصيب سورس كايدو ع التوكن 
 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 
 1️⃣┇افتح ترمنال وحط
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
+git clone https://github.com/abOHEDR/KAIDOS
 
 2️⃣┇انتر وراه حط،
 
-cd TshAkEapi 
+cd KAIDOS 
 
 3️⃣┇وانتر وراه حط
 
@@ -26,7 +26,7 @@ cd TshAkEapi
 
 ⤵️┇او نصب بكود واحد،
 
-git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/abOHEDR/KAIDOS && cd KAIDOS && chmod +x install.sh && ./install.sh
 
 📥┇وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y، 
 
@@ -48,7 +48,7 @@ git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x in
 
 📁┇تحفظ الملف وتفتح ترمنال وتحط، redis-server 
 
-🔽┇وراه تسوي رن من ملف، TSHAKE-Auto.sh 
+🔽┇وراه تسوي رن من ملف، KAIDOS-Auto.sh 
 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 
@@ -56,17 +56,17 @@ git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x in
 
 🔽┇افتح ترمنال وحط ، redis-server 
 
-🔽┇بعده اسوي رن من ملف ، TSHAKE-auto.sh
+🔽┇بعده اسوي رن من ملف ، KAIDOS-auto.sh
 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 
-✨┇ومبروك نصبت سورس تشاكي، 
+✨┇ومبروك نصبت كايدو تشاكي، 
 
 ☑️┇تيجي الجديد ع التوكن 
 
-📮┇@TshAkETEAM
+📮┇@SH_A_D_O
 
-🦁┇@TSHELPBOT
+🦁┇@SH_A_D_O
 
 
 
