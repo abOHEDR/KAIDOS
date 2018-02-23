@@ -60,7 +60,7 @@ git clone https://github.com/abOHEDR/KAIDOS && cd KAIDOS && chmod +x install.sh 
 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 
-✨┇ومبروك نصبت كايدو تشاكي، 
+✨┇ومبروك نصبت كايدو ، 
 
 ☑️┇تيجي الجديد ع التوكن 
 
